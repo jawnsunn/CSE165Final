@@ -1,0 +1,21 @@
+[Final Project for CSE165]
+
+[Goals]
+Display characters and background
+  - Create states for different character animations
+    - player_idle, player_wlkfwd, player_wlkbck, player_attack, player_hurt
+Create player controller objects for player 1 and player 2
+  - functions for player_controller
+    - state animation controller - assign animations to different states
+    - keyboard input - input will assign state + do action
+    - collision - if state_contact(ex: state_attack on p2), then do something
+Create gameController objects
+  - functions
+    - Keep score between P1 and P2
+    - DISPLAY said score onto the screen
+    - If x player wins, then assign score and reposition character starting
+    points
+
+Extras:
+  - cool moving background
+  - different player 2 sprite
