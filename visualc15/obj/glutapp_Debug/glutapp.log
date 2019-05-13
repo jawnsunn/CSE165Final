@@ -1,0 +1,72 @@
+﻿  Ad.cpp
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\Ad.cpp(5): warning C4305: 'argument': truncation from 'double' to 'float'
+  AnimatedRect.cpp
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\AnimatedRect.cpp(74): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\AnimatedRect.cpp(75): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  App.cpp
+  Game.cpp
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\Game.cpp(36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\Game.cpp(37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\Game.cpp(61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\Game.cpp(62): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\Game.cpp(80): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\Game.cpp(81): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\Game.cpp(86): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\Game.cpp(89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\Game.cpp(104): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\Game.cpp(112): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\Game.cpp(121): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\Game.cpp(129): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\Game.cpp(135): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\Game.cpp(137): warning C4305: 'argument': truncation from 'double' to 'float'
+  GlutApp.cpp
+  Rect.cpp
+  TexRect.cpp
+  TextBox.cpp
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\TextBox.cpp(29): warning C4018: '<': signed/unsigned mismatch
+  Timer.cpp
+  app_main.cpp
+  Generating Code...
+  SOIL.c
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\windows\SOIL.c(1719): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\windows\SOIL.c(1729): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\windows\SOIL.c(1841): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+  image_DXT.c
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\windows\image_DXT.c(92): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+  image_helper.c
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\windows\image_helper.c(325): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\windows\image_helper.c(366): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\windows\image_helper.c(373): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\windows\image_helper.c(415): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\windows\image_helper.c(422): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  stb_image_aug.c
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\windows\stb_image_aug.c(177): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\windows\stb_image_aug.c(251): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\windows\stb_image_aug.c(303): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\windows\stb_image_aug.c(1557): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\windows\stb_image_aug.c(2394): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\windows\stb_image_aug.c(2709): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\windows\stb_image_aug.c(2995): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\windows\stb_image_aug.c(3209): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\windows\stb_image_aug.c(3548): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\windows\stb_image_aug.c(3644): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\windows\stbi_DDS_aug_c.h(362): warning C4018: '>': signed/unsigned mismatch
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\windows\stbi_DDS_aug_c.h(366): warning C4018: '>': signed/unsigned mismatch
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\windows\stbi_DDS_aug_c.h(390): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\windows\stbi_DDS_aug_c.h(427): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\windows\stbi_DDS_aug_c.h(498): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+  Generating Code...
+  glutapp.vcxproj -> C:\Users\jawnsunn\Desktop\CSE165labs\TemplateCrossPlatform1\visualc15\obj\glutapp_Debug\glutapp.exe
